@@ -8,5 +8,10 @@
 
 <h1> Descrição: </h1>
 <p>
-Agenda construida em Python utilizando Django Framework.
+Agenda construída em Python utilizando Django Framework.
+</p>
+
+<h1> Projeto: </h1>
+<p>
+Projeto FullStack.
 </p>
